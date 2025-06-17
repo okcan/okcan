@@ -42,7 +42,7 @@
 ## 🧠 Currently Exploring
 
 - AI text detection + NLP (see [AIchecker](https://github.com/okcan/AIchecker))  
-- CI/CD pipelines on OCI and GitHub Actions  
+- CI/CD pipelines on AWS and GitHub Actions  
 - API gateway hardening + open-source observability tooling  
 
 ---
