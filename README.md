@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yasin (aka `okcan`)
+# 👋 Hi, I'm Yasin 
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com.tr/citations?user=fSFmXc8AAAAJ&hl=en)
 
@@ -50,16 +50,15 @@
 ## ☕ Let's Connect
 
 [Google Scholar](https://scholar.google.com.tr/citations?user=fSFmXc8AAAAJ&hl=en) •  
-[LinkedIn](https://linkedin.com/in/okcan) •  
 [GitHub](https://github.com/okcan) •  
-✉️ oyasin@polygon.technology  
+
 
 ---
 
 ## 📚 Publications
 
-- 📘 [*Pro Oracle Fusion Applications Infrastructure* (Springer, 2015)](https://link.springer.com/book/10.1007/978-1-4842-2832-6)  
-  In-depth guide to Oracle Fusion application infrastructure, integration, and deployment.
+- 📘 [*Oracle IaaS Quick Reference Guide to Cloud Solutions* (Springer, 2015)](https://link.springer.com/book/10.1007/978-1-4842-2832-6)  
+  A quick-reference guide to help users easily understand IaaS tips and tricks.
 
 - 📘 [*Introduction to Private Cloud Using Oracle Exadata & Oracle Database* (CRC Press, 2019)](https://www.taylorfrancis.com/books/mono/10.1201/9780429020902/introduction-private-cloud-using-oracle-exadata-oracle-database-okcan-yasin-saygili)  
   Explores private cloud architectures leveraging Oracle technologies.
