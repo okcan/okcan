@@ -38,13 +38,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okcan&layout=compact)
 
 ---
-
+/*
 ## 🧠 Currently Exploring
 
 - AI text detection + NLP (see [AIchecker](https://github.com/okcan/AIchecker))  
 - CI/CD pipelines on AWS and GitHub Actions  
 - API gateway hardening + open-source observability tooling  
-
+*/
 ---
 
 ## ☕ Let's Connect
