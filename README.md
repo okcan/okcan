@@ -2,7 +2,7 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com.tr/citations?user=fSFmXc8AAAAJ&hl=en)
 
-🌐 Academic Researcher | DevOps Engineer| Developer | SRE | Cloud Enthusiast  
+🌐 AI Academic Researcher | DevOps Engineer| Developer | SRE | Cloud Enthusiast  
 💻 Passionate about infrastructure, automation, and secure systems  
 📦 Love building tools that migrate, manage, or monitor cloud-native workloads  
 📍 Based in Sydney | ⏰ UTC -12:00
