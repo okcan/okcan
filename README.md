@@ -10,7 +10,7 @@
 ---
 ## 🔧 Upcoming Publication
 
-- 📘 [_*BITCOIN PRICE FORECASTING USING A LONG SHORT-TERM MEMORY NEURAL NETWORK MODEL* (IRJMETS, 2025)](https://www.irjmets.com/upload_newfiles/irjmets70700045771/paper_file/irjmets70700045771.pdf)  
+- 📘 [*BITCOIN PRICE FORECASTING USING A LONG SHORT-TERM MEMORY NEURAL NETWORK MODEL* (IRJMETS, 2025)](https://www.irjmets.com/upload_newfiles/irjmets70700045771/paper_file/irjmets70700045771.pdf)  
 
 ---
 
