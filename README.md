@@ -8,6 +8,11 @@
 📍 Based in Sydney | ⏰ UTC -12:00
 
 ---
+## 🔧 Upcoming Publication
+
+- 📘 [*BITCOIN PRICE FORECASTING USING A LONG SHORT-TERM MEMORY NEURAL NETWORK MODEL * (IRJMETS, 2025)](https://www.irjmets.com/upload_newfiles/irjmets70700045771/paper_file/irjmets70700045771.pdf)  
+
+---
 
 ## 🔧 Tech Stack
 
