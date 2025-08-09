@@ -10,7 +10,7 @@
 ---
 ## 🔧 Events I will be talking about soon
 
-- 📘 [apidays Australia Platforms, products, and people: The power of APIs in the age of AI 29 - 30 October 2025 • MCEC, Melbourne]
+- 📘 [Apidays Australia Platforms, products, and people: The power of APIs in the age of AI 29 - 30 October 2025 • MCEC, Melbourne]
 - 📘 [International Conference on Robotics and Artificial Intelligence - 31/12/2025 to 01/01/2026 in Newcastle,Australia]
 
 ---
