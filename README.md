@@ -8,6 +8,14 @@
 📍 Based in Sydney | ⏰ UTC -12:00
 
 ---
+## 🔧 Events I will be talking about soon
+
+- 📘 [apidays Australia Platforms, products, and people: The power of APIs in the age of AI 29 - 30 October 2025 • MCEC, Melbourne]
+- 📘 [International Conference on Robotics and Artificial Intelligence - 31/12/2025 to 01/01/2026 in Newcastle,Australia]
+
+---
+
+---
 ## 🔧 Upcoming Publication
 
 - 📘 [*BITCOIN PRICE FORECASTING USING A LONG SHORT-TERM MEMORY NEURAL NETWORK MODEL* (IRJMETS, 2025)](https://www.irjmets.com/upload_newfiles/irjmets70700045771/paper_file/irjmets70700045771.pdf)  
