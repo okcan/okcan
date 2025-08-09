@@ -8,7 +8,7 @@
 📍 Based in Sydney | ⏰ UTC -12:00
 
 ---
-## 🔧 Events I will be talking about soon
+## 🔧 Events, I will be speaker soon
 
 - 📘 [Apidays Australia Platforms, products, and people: The power of APIs in the age of AI 29 - 30 October 2025 • MCEC, Melbourne]
 - 📘 [International Conference on Robotics and Artificial Intelligence - 31/12/2025 to 01/01/2026 in Newcastle,Australia]
